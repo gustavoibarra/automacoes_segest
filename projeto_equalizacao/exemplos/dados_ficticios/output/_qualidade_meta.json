@@ -1,0 +1,32 @@
+{
+  "qualidade": {
+    "quantidade_registros_lidos": 29,
+    "quantidade_arquivos": 2,
+    "registros_por_arquivo": {
+      "processos_01-01-2026.csv": 21,
+      "processos_08-01-2026.csv": 8
+    },
+    "duplicidades_removidas": 1,
+    "registros_validos": 28,
+    "registros_com_anomalia": 6,
+    "processos_distintos": 12,
+    "unidades_nao_classificadas": 1,
+    "data_minima": "2026-01-02T08:00:00",
+    "data_maxima": "2026-01-20T08:00:00",
+    "percentual_completude_por_coluna": {
+      "processo": 100.0,
+      "indicador": 100.0,
+      "orgao_julgador": 100.0,
+      "classe_judicial": 100.0,
+      "municipio_sede": 100.0,
+      "data": 100.0
+    }
+  },
+  "avisos": [
+    "Atencao: foram encontradas 10 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente."
+  ],
+  "arquivos_utilizados": [
+    "processos_01-01-2026.csv",
+    "processos_08-01-2026.csv"
+  ]
+}

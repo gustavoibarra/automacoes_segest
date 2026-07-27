@@ -1,0 +1,9 @@
+﻿processo,tipo_anomalia,descricao,arquivo_origem,numero_linha_arquivo
+0000006-66.2026.5.12.0001,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'Vara Inexistente',processos_01-01-2026.csv,21
+0000007-77.2026.5.12.0001,DATA_INVALIDA,Data invalida,processos_01-01-2026.csv,22
+0000008-88.2026.5.12.0001,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0000008-88.2026.5.12.0001, indicador=DISTRIBUICAO, orgao=1 VARA DO TRABALHO DE BLUMENAU",processos_08-01-2026.csv,8
+0000004-44.2026.5.12.0001,ULTIMO_MOVIMENTO_EM_TRIAGEM,Ultimo movimento do processo ainda em unidade de triagem,processos_01-01-2026.csv,16
+0000004-44.2026.5.12.0001,PASSAGEM_TRIAGEM_INCOMPLETA,Passagem incompleta pela triagem,processos_01-01-2026.csv,17
+0000005-55.2026.5.12.0001,ORIGEM_EQUALIZACAO_NAO_CEDENTE,Origem da equalizacao nao classificada como cedente,processos_01-01-2026.csv,19
+0000009-99.2026.5.12.0001,ORIGEM_EQUALIZACAO_NAO_CEDENTE,Origem da equalizacao nao classificada como cedente,processos_01-01-2026.csv,27
+0000009-99.2026.5.12.0001,MULTIPLOS_EPISODIOS_EQUALIZACAO,Processo 0000009-99.2026.5.12.0001 possui 2 episodios de passagem pela triagem.,processos_01-01-2026.csv,24

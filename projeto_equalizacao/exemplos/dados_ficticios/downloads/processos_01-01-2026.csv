@@ -1,0 +1,28 @@
+#Processos distribuidos e redistribuidos por OJ no 1o grau  detalhado
+#Data Final: 07/01/2026; Indicador de Distribuicao: NAO PREENCHIDO; Orgao Julgador: NAO PREENCHIDO; Municipio: NAO PREENCHIDO; Data Inicial: 01/01/2026; Classe Processual: NAO PREENCHIDO
+
+#Total de registros: 21
+#Relatorio gerado automaticamente (dados ficticios de demonstracao)
+
+#Processo;Indicador;Município Sede;Órgão Julgador;Classe Judicial;Data
+0000001-11.2026.5.12.0001;Distribuição;Florianopolis;3 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;02/01/2026 08:00:00
+0000002-22.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;02/01/2026 08:00:00
+0000002-22.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;03/01/2026 08:00:00
+0000002-22.2026.5.12.0001;Redistribuição;Florianopolis;5 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;05/01/2026 08:00:00
+0000003-33.2026.5.12.0001;Distribuição;Florianopolis;2 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;03/01/2026 08:00:00
+0000003-33.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;04/01/2026 08:00:00
+0000003-33.2026.5.12.0001;Redistribuição;Florianopolis;6 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;06/01/2026 08:00:00
+0000003-33.2026.5.12.0001;Redistribuição;Florianopolis;4 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;20/01/2026 08:00:00
+0000004-44.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Itajai;ATSum - Procedimento Sumario;05/01/2026 08:00:00
+0000004-44.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;06/01/2026 08:00:00
+0000005-55.2026.5.12.0001;Distribuição;Florianopolis;3 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;05/01/2026 08:00:00
+0000005-55.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;06/01/2026 08:00:00
+0000005-55.2026.5.12.0001;Redistribuição;Florianopolis;6 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;08/01/2026 08:00:00
+0000006-66.2026.5.12.0001;Distribuição;Florianopolis;Vara Inexistente;ATSum - Procedimento Sumario;06/01/2026 08:00:00
+0000007-77.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Joinville;ATSum - Procedimento Sumario;31/13/2026 08:00:00
+0000008-88.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Blumenau;ATSum - Procedimento Sumario;07/01/2026 08:00:00
+0000009-99.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;02/01/2026 08:00:00
+0000009-99.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;03/01/2026 08:00:00
+0000009-99.2026.5.12.0001;Redistribuição;Florianopolis;5 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;04/01/2026 08:00:00
+0000009-99.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;10/01/2026 08:00:00
+0000009-99.2026.5.12.0001;Redistribuição;Florianopolis;1 Vara do Trabalho de Chapeco;ATSum - Procedimento Sumario;12/01/2026 08:00:00

@@ -1,0 +1,118 @@
+
+===== Execucao em 23/07/2026 13:33:07 =====
+Arquivos processados: 2
+Registros lidos: 29
+Registros validos apos deduplicacao: 28
+Duplicidades removidas: 1
+Processos distintos: 12
+Unidades permanentes carregadas: 10
+Unidades nao classificadas encontradas: 1
+Aviso: Atencao: foram encontradas 10 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 13:33:21 =====
+Arquivos processados: 2
+Registros lidos: 29
+Registros validos apos deduplicacao: 28
+Duplicidades removidas: 1
+Processos distintos: 12
+Unidades permanentes carregadas: 10
+Unidades nao classificadas encontradas: 1
+Aviso: Atencao: foram encontradas 10 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 13:42:31 =====
+Arquivos processados: 2
+Registros lidos: 29
+Registros validos apos deduplicacao: 28
+Duplicidades removidas: 1
+Processos distintos: 12
+Unidades permanentes carregadas: 10
+Unidades nao classificadas encontradas: 1
+Aviso: Atencao: foram encontradas 10 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 14:05:47 =====
+Arquivos processados: 22
+Registros lidos: 10978
+Registros validos apos deduplicacao: 10905
+Duplicidades removidas: 73
+Processos distintos: 7853
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Aviso: Atencao: foram encontradas 60 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 15:29:11 =====
+Arquivos processados: 22
+Registros lidos: 10978
+Registros validos apos deduplicacao: 10905
+Duplicidades removidas: 73
+Processos distintos: 7853
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+Aviso: Atencao: foram encontradas 60 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 15:31:55 =====
+Arquivos processados: 22
+Registros lidos: 10978
+Registros validos apos deduplicacao: 10905
+Duplicidades removidas: 73
+Processos distintos: 7853
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+Aviso: Atencao: foram encontradas 60 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 23/07/2026 18:11:58 =====
+Arquivos processados: 22
+Registros lidos: 10978
+Registros validos apos deduplicacao: 10975
+Duplicidades removidas: 3
+Processos distintos: 7853
+Registros RESTITUIDO (desconsiderados de todas as analises): 1601
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 0
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+Aviso: Atencao: foram encontradas 60 unidades permanentes, quantidade diferente da esperada (62). A execucao continuara normalmente.
+
+===== Execucao em 24/07/2026 10:36:13 =====
+Arquivos processados: 23
+Registros lidos: 11712
+Registros validos apos deduplicacao: 11709
+Duplicidades removidas: 3
+Processos distintos: 8407
+Registros RESTITUIDO (desconsiderados de todas as analises): 1694
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 0
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 24/07/2026 11:29:39 =====
+Arquivos processados: 23
+Registros lidos: 11712
+Registros validos apos deduplicacao: 11709
+Duplicidades removidas: 3
+Processos distintos: 8407
+Registros RESTITUIDO (desconsiderados de todas as analises): 1694
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 0
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 27/07/2026 13:05:05 =====
+Arquivos processados: 26
+Registros lidos: 12457
+Registros validos apos deduplicacao: 12454
+Duplicidades removidas: 3
+Processos distintos: 8941
+Registros RESTITUIDO (desconsiderados de todas as analises): 1799
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 0
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 27/07/2026 14:52:42 =====
+Arquivos processados: 26
+Registros lidos: 12457
+Registros validos apos deduplicacao: 12454
+Duplicidades removidas: 3
+Processos distintos: 8941
+Registros RESTITUIDO (desconsiderados de todas as analises): 1799
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 0
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx

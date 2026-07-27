@@ -1,0 +1,15 @@
+#Processos distribuidos e redistribuidos por OJ no 1o grau  detalhado
+#Data Final: 14/01/2026; Indicador de Distribuicao: NAO PREENCHIDO; Orgao Julgador: NAO PREENCHIDO; Municipio: NAO PREENCHIDO; Data Inicial: 08/01/2026; Classe Processual: NAO PREENCHIDO
+
+#Total de registros: 8
+#Relatorio gerado automaticamente (dados ficticios de demonstracao)
+
+#Processo;Indicador;Município Sede;Órgão Julgador;Classe Judicial;Data
+0000008-88.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Blumenau;ATSum - Procedimento Sumario;07/01/2026 08:00:00
+0000010-10.2026.5.12.0001;Distribuição;Florianopolis;2 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;09/01/2026 08:00:00
+0000010-10.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;10/01/2026 08:00:00
+0000010-10.2026.5.12.0001;Redistribuição;Florianopolis;1 Vara do Trabalho de Joinville;ATSum - Procedimento Sumario;13/01/2026 08:00:00
+0000011-20.2026.5.12.0001;Distribuição;Florianopolis;4 Vara do Trabalho de Florianopolis;ATSum - Procedimento Sumario;09/01/2026 08:00:00
+0000012-30.2026.5.12.0001;Distribuição;Florianopolis;1 Vara do Trabalho de Itajai;ATSum - Procedimento Sumario;10/01/2026 08:00:00
+0000012-30.2026.5.12.0001;Redistribuição;Florianopolis;Setor de Triagem - Equalizacao;ATSum - Procedimento Sumario;11/01/2026 08:00:00
+0000012-30.2026.5.12.0001;Redistribuição;Florianopolis;1 Vara do Trabalho de Chapeco;ATSum - Procedimento Sumario;14/01/2026 08:00:00
