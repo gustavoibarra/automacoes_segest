@@ -1,10 +1,12 @@
 {
   "qualidade": {
-    "quantidade_registros_lidos": 12457,
-    "quantidade_arquivos": 26,
+    "quantidade_registros_lidos": 18891,
+    "quantidade_arquivos": 33,
     "registros_por_arquivo": {
       "processos_01-07-2026.CSV": 481,
+      "processos_01-08-2026.CSV": 30,
       "processos_02-07-2026.CSV": 473,
+      "processos_02-08-2026.CSV": 50,
       "processos_03-07-2026.CSV": 569,
       "processos_04-07-2026.CSV": 46,
       "processos_05-07-2026.CSV": 19,
@@ -28,15 +30,20 @@
       "processos_23-07-2026.CSV": 734,
       "processos_24-07-2026.CSV": 653,
       "processos_25-07-2026.CSV": 23,
-      "processos_26-07-2026.CSV": 35
+      "processos_26-07-2026.CSV": 35,
+      "processos_27-07-2026.CSV": 575,
+      "processos_28-07-2026.CSV": 1723,
+      "processos_29-07-2026.CSV": 1316,
+      "processos_30-07-2026.CSV": 1602,
+      "processos_31-07-2026.CSV": 1138
     },
-    "duplicidades_removidas": 3,
-    "registros_validos": 12454,
-    "registros_com_anomalia": 103,
-    "processos_distintos": 8941,
-    "unidades_nao_classificadas": 0,
+    "duplicidades_removidas": 5,
+    "registros_validos": 18886,
+    "registros_com_anomalia": 1624,
+    "processos_distintos": 12976,
+    "unidades_nao_classificadas": 1,
     "data_minima": "2026-07-01T07:34:12",
-    "data_maxima": "2026-07-26T23:40:02",
+    "data_maxima": "2026-08-02T23:11:58",
     "percentual_completude_por_coluna": {
       "processo": 100.0,
       "indicador": 100.0,
@@ -45,7 +52,7 @@
       "municipio_sede": 100.0,
       "data": 100.0
     },
-    "registros_restituidos": 1799
+    "registros_restituidos": 3756
   },
   "avisos": [],
   "arquivos_utilizados": [
@@ -74,6 +81,13 @@
     "processos_23-07-2026.CSV",
     "processos_24-07-2026.CSV",
     "processos_25-07-2026.CSV",
-    "processos_26-07-2026.CSV"
+    "processos_26-07-2026.CSV",
+    "processos_27-07-2026.CSV",
+    "processos_28-07-2026.CSV",
+    "processos_29-07-2026.CSV",
+    "processos_30-07-2026.CSV",
+    "processos_31-07-2026.CSV",
+    "processos_01-08-2026.CSV",
+    "processos_02-08-2026.CSV"
   ]
 }

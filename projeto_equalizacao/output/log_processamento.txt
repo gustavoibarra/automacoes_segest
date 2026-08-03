@@ -116,3 +116,25 @@ Registros RESTITUIDO (desconsiderados de todas as analises): 1799
 Unidades permanentes carregadas: 60
 Unidades nao classificadas encontradas: 0
 Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automações\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 30/07/2026 13:17:57 =====
+Arquivos processados: 29
+Registros lidos: 16071
+Registros validos apos deduplicacao: 16068
+Duplicidades removidas: 3
+Processos distintos: 11201
+Registros RESTITUIDO (desconsiderados de todas as analises): 2924
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 03/08/2026 16:43:13 =====
+Arquivos processados: 33
+Registros lidos: 18891
+Registros validos apos deduplicacao: 18886
+Duplicidades removidas: 5
+Processos distintos: 12976
+Registros RESTITUIDO (desconsiderados de todas as analises): 3756
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx

@@ -29,6 +29,16 @@ OPCOES = {
         "comando": [sys.executable, "main.py", "--atualizar"],
         "cwd": BASE_DIR / "projeto_equalizacao",
     },
+    "30": {
+        "descricao": "Gerar relatório DOCX",
+        "comando": [sys.executable, "main.py", "--relatorio"],
+        "cwd": BASE_DIR / "projeto_equalizacao",
+    },    
+    "40": {
+        "descricao": "Abrir Dashboard do sistema de equalização",
+        "comando": ["streamlit", "run", "app.py"],
+        "cwd": BASE_DIR / "projeto_equalizacao",
+    },    
 }
 
 
