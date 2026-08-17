@@ -138,3 +138,58 @@ Registros RESTITUIDO (desconsiderados de todas as analises): 3756
 Unidades permanentes carregadas: 60
 Unidades nao classificadas encontradas: 1
 Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 04/08/2026 13:11:22 =====
+Arquivos processados: 34
+Registros lidos: 19439
+Registros validos apos deduplicacao: 19434
+Duplicidades removidas: 5
+Processos distintos: 13394
+Registros RESTITUIDO (desconsiderados de todas as analises): 3822
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 05/08/2026 13:31:30 =====
+Arquivos processados: 35
+Registros lidos: 20040
+Registros validos apos deduplicacao: 20035
+Duplicidades removidas: 5
+Processos distintos: 13873
+Registros RESTITUIDO (desconsiderados de todas as analises): 3883
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 06/08/2026 18:09:58 =====
+Arquivos processados: 36
+Registros lidos: 20712
+Registros validos apos deduplicacao: 20707
+Duplicidades removidas: 5
+Processos distintos: 14401
+Registros RESTITUIDO (desconsiderados de todas as analises): 3957
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 11/08/2026 12:03:50 =====
+Arquivos processados: 41
+Registros lidos: 22498
+Registros validos apos deduplicacao: 22492
+Duplicidades removidas: 6
+Processos distintos: 15932
+Registros RESTITUIDO (desconsiderados de todas as analises): 4086
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx
+
+===== Execucao em 17/08/2026 10:20:33 =====
+Arquivos processados: 47
+Registros lidos: 25138
+Registros validos apos deduplicacao: 25132
+Duplicidades removidas: 6
+Processos distintos: 17861
+Registros RESTITUIDO (desconsiderados de todas as analises): 4450
+Unidades permanentes carregadas: 60
+Unidades nao classificadas encontradas: 1
+Planilha Excel consolidada gerada em: C:\desenvolvimento\projetos\automacoes_segest\projeto_equalizacao\output\consolidado_equalizacao.xlsx

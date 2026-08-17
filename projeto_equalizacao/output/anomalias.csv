@@ -1506,22 +1506,38 @@
 0000541-37.2026.5.12.0010,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_31-07-2026.CSV,1105
 0000885-52.2025.5.12.0010,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_31-07-2026.CSV,1106
 0001085-59.2025.5.12.0010,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_31-07-2026.CSV,1109
+0000394-11.2026.5.12.0010,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_03-08-2026.CSV,337
+0002835-55.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_06-08-2026.CSV,158
+0002293-37.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_07-08-2026.CSV,512
+0002190-30.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_07-08-2026.CSV,517
+0000593-89.2026.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_07-08-2026.CSV,524
+0000351-33.2026.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_11-08-2026.CSV,566
+0000485-60.2026.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_12-08-2026.CSV,290
+0000549-70.2026.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_12-08-2026.CSV,295
+0002768-90.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_12-08-2026.CSV,301
+0002556-69.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_12-08-2026.CSV,304
+0002790-51.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_13-08-2026.CSV,144
+0002559-24.2025.5.12.0056,UNIDADE_NAO_CLASSIFICADA,Unidade nao classificada: 'NÚCLEO DE JUSTIÇA 4.0 DE COOPERAÇÃO JUDICIÁRIA',processos_14-08-2026.CSV,148
 0001545-91.2026.5.12.0016,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0001545-91.2026.5.12.0016, indicador=REDISTRIBUICAO, orgao=VARA DO TRABALHO DE FRAIBURGO - TRIAGEM DE EQUALIZACAO",processos_14-07-2026.CSV,208
 0001192-22.2026.5.12.0058,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0001192-22.2026.5.12.0058, indicador=REDISTRIBUICAO, orgao=3 VARA DO TRABALHO DE BLUMENAU - TRIAGEM DE EQUALIZACAO",processos_16-07-2026.CSV,308
 0001588-28.2026.5.12.0016,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0001588-28.2026.5.12.0016, indicador=REDISTRIBUICAO, orgao=3 VARA DO TRABALHO DE LAGES",processos_17-07-2026.CSV,408
 0002145-08.2025.5.12.0062,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0002145-08.2025.5.12.0062, indicador=REDISTRIBUICAO, orgao=NUCLEO DE JUSTICA 4.0 DE COOPERACAO JUDICIARIA",processos_30-07-2026.CSV,708
 0002573-08.2025.5.12.0056,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0002573-08.2025.5.12.0056, indicador=REDISTRIBUICAO, orgao=NUCLEO DE JUSTICA 4.0 DE COOPERACAO JUDICIARIA",processos_31-07-2026.CSV,208
+0001833-12.2026.5.12.0025,MOVIMENTACAO_DUPLICADA_REMOVIDA,"Movimentacao duplicada removida (arquivo original preservado): processo=0001833-12.2026.5.12.0025, indicador=REDISTRIBUICAO, orgao=VARA DO TRABALHO DE ARARANGUA - TRIAGEM DE EQUALIZACAO",processos_06-08-2026.CSV,208
 0000600-86.2009.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0000600-86.2009.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_15-07-2026.CSV,186
 0002208-46.2014.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002208-46.2014.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_14-07-2026.CSV,454
 0002434-56.2011.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002434-56.2011.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_14-07-2026.CSV,307
 0002454-81.2010.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002454-81.2010.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_14-07-2026.CSV,293
 0002576-89.2013.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002576-89.2013.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_30-07-2026.CSV,1365
+0002635-48.2011.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002635-48.2011.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_03-08-2026.CSV,307
 0002672-41.2012.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0002672-41.2012.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_15-07-2026.CSV,158
 0003132-62.2011.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0003132-62.2011.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_14-07-2026.CSV,283
+0005161-46.2015.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0005161-46.2015.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_04-08-2026.CSV,313
 0114900-95.2008.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0114900-95.2008.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_22-07-2026.CSV,288
 0123700-83.2006.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0123700-83.2006.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_21-07-2026.CSV,505
 0137400-29.2006.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0137400-29.2006.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_31-07-2026.CSV,454
 0154500-89.2009.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0154500-89.2009.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_22-07-2026.CSV,565
+0303300-64.2006.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0303300-64.2006.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_03-08-2026.CSV,440
 0376200-45.2006.5.12.0053,ORDEM_CRONOLOGICA_AMBIGUA,Processo 0376200-45.2006.5.12.0053 possui movimentos com data identica; ordem definida por arquivo/linha.,processos_15-07-2026.CSV,296
 0000001-41.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,834
 0000001-71.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,291
@@ -1788,12 +1804,14 @@
 0000350-65.2026.5.12.0018,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,26
 0000350-73.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1394
 0000350-95.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,170
+0000351-33.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,566
 0000351-92.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,582
 0000352-43.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1335
 0000354-13.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1654
 0000355-88.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1323
 0000356-05.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,197
 0000359-22.2025.5.12.0031,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1448
+0000360-52.2026.5.12.0037,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,213
 0000364-57.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1516
 0000365-04.2026.5.12.0028,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,573
 0000365-35.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1286
@@ -1829,6 +1847,7 @@
 0000392-78.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1235
 0000392-97.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,801
 0000393-98.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,456
+0000394-11.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_03-08-2026.CSV,337
 0000396-33.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1307
 0000396-96.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1224
 0000397-22.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1263
@@ -1866,12 +1885,14 @@
 0000430-38.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,273
 0000430-59.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,123
 0000430-71.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1235
+0000433-55.2026.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_05-08-2026.CSV,85
 0000434-11.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1464
 0000435-52.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1380
 0000435-57.2026.5.12.0016,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1125
 0000437-04.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1274
 0000438-07.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1355
 0000440-74.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1400
+0000440-83.2026.5.12.0047,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,561
 0000441-57.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,417
 0000441-64.2026.5.12.0016,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1078
 0000442-85.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,533
@@ -1903,6 +1924,7 @@
 0000481-82.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1203
 0000482-38.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1113
 0000482-49.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,1069
+0000485-60.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_12-08-2026.CSV,290
 0000486-92.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,141
 0000487-11.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1139
 0000488-09.2025.5.12.0037,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1512
@@ -1947,12 +1969,14 @@
 0000541-80.2026.5.12.0028,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,507
 0000542-22.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,1059
 0000542-40.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,598
+0000543-07.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_12-08-2026.CSV,274
 0000543-13.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,85
 0000544-73.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1561
 0000544-95.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,241
 0000545-14.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1155
 0000548-14.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,267
 0000548-47.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,537
+0000549-70.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_12-08-2026.CSV,295
 0000550-73.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1436
 0000551-56.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,324
 0000552-41.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,471
@@ -1962,6 +1986,7 @@
 0000555-64.2026.5.12.0028,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,598
 0000555-73.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1265
 0000558-91.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,675
+0000558-95.2026.5.12.0035,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_13-08-2026.CSV,148
 0000559-95.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1033
 0000560-59.2026.5.12.0037,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_17-07-2026.CSV,566
 0000565-11.2026.5.12.0028,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,460
@@ -1971,6 +1996,7 @@
 0000566-72.2025.5.12.0014,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,657
 0000571-95.2024.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,986
 0000575-68.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1310
+0000576-37.2026.5.12.0029,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,389
 0000576-94.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,1086
 0000577-64.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,340
 0000579-38.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,937
@@ -1988,6 +2014,7 @@
 0000587-11.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,788
 0000589-14.2026.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,540
 0000593-08.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,152
+0000593-89.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_07-08-2026.CSV,524
 0000594-18.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,1049
 0000597-25.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,892
 0000601-10.2026.5.12.0010,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,1096
@@ -2028,6 +2055,7 @@
 0000659-86.2026.5.12.0018,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_09-07-2026.CSV,86
 0000661-65.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,250
 0000662-05.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1205
+0000671-91.2026.5.12.0021,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_05-08-2026.CSV,202
 0000672-94.2026.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,634
 0000673-34.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1044
 0000675-48.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1609
@@ -2047,6 +2075,7 @@
 0000692-84.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1431
 0000692-94.2026.5.12.0012,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_16-07-2026.CSV,142
 0000693-60.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,696
+0000694-44.2026.5.12.0051,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_13-08-2026.CSV,92
 0000694-45.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,683
 0000696-92.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,480
 0000697-62.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1111
@@ -2081,7 +2110,9 @@
 0000735-12.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,309
 0000735-93.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,202
 0000738-48.2026.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1022
+0000739-04.2026.5.12.0001,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,186
 0000740-96.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1251
+0000743-90.2026.5.12.0017,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_13-08-2026.CSV,22
 0000748-52.2026.5.12.0037,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_17-07-2026.CSV,1046
 0000751-07.2026.5.12.0037,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_03-07-2026.CSV,461
 0000752-13.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1035
@@ -2144,6 +2175,8 @@
 0000915-08.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1102
 0000917-54.2026.5.12.0032,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_22-07-2026.CSV,489
 0000918-14.2026.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,128
+0000918-39.2026.5.12.0032,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_05-08-2026.CSV,647
+0000920-48.2026.5.12.0019,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,101
 0000921-35.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,94
 0000922-97.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1384
 0000923-61.2026.5.12.0032,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_17-07-2026.CSV,56
@@ -2231,6 +2264,7 @@
 0001153-61.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,502
 0001154-41.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1662
 0001155-31.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,743
+0001156-74.2026.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_03-08-2026.CSV,326
 0001157-19.2026.5.12.0040,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_17-07-2026.CSV,670
 0001157-93.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1687
 0001161-04.2026.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_24-07-2026.CSV,42
@@ -2289,6 +2323,7 @@
 0001252-17.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,624
 0001254-23.2025.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1396
 0001254-95.2026.5.12.0047,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_06-07-2026.CSV,171
+0001258-26.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_07-08-2026.CSV,176
 0001259-09.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,307
 0001261-54.2024.5.12.0016,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,115
 0001262-04.2026.5.12.0005,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_23-07-2026.CSV,349
@@ -2310,6 +2345,7 @@
 0001282-66.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,790
 0001284-15.2025.5.12.0032,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,516
 0001284-22.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,691
+0001289-19.2026.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_05-08-2026.CSV,282
 0001290-29.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,198
 0001290-38.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,501
 0001292-13.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1116
@@ -2367,6 +2403,7 @@
 0001412-51.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,1691
 0001413-27.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,427
 0001413-29.2026.5.12.0050,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_03-07-2026.CSV,217
+0001414-74.2026.5.12.0030,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_11-08-2026.CSV,506
 0001414-77.2025.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,78
 0001415-06.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,584
 0001418-58.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,493
@@ -2487,7 +2524,6 @@
 0001704-27.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1055
 0001706-06.2025.5.12.0059,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,519
 0001716-41.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,293
-0001718-21.2026.5.12.0015,ULTIMO_MOVIMENTO_EM_TRIAGEM,Ultimo movimento do processo ainda em unidade de triagem,processos_14-07-2026.CSV,155
 0001720-78.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,298
 0001721-63.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,296
 0001722-48.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,300
@@ -2763,6 +2799,7 @@
 0002185-67.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1240
 0002187-98.2025.5.12.0016,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,823
 0002189-41.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,649
+0002190-30.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_07-08-2026.CSV,517
 0002191-15.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1114
 0002191-94.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,461
 0002192-59.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1236
@@ -2833,6 +2870,7 @@
 0002290-19.2024.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,247
 0002292-02.2025.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,101
 0002292-14.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1222
+0002293-37.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_07-08-2026.CSV,512
 0002294-45.2025.5.12.0016,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,917
 0002295-91.2025.5.12.0028,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,654
 0002301-10.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1188
@@ -2951,6 +2989,8 @@
 0002552-91.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,590
 0002554-95.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,955
 0002555-13.2025.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,350
+0002556-69.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_12-08-2026.CSV,304
+0002559-24.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_14-08-2026.CSV,148
 0002560-09.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_28-07-2026.CSV,870
 0002560-68.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,600
 0002561-53.2025.5.12.0004,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,633
@@ -3033,7 +3073,9 @@
 0002746-32.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,1035
 0002750-19.2025.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,211
 0002766-23.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1187
+0002768-90.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_12-08-2026.CSV,301
 0002771-71.2025.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,303
+0002790-51.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_13-08-2026.CSV,144
 0002791-32.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,898
 0002795-23.2025.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,242
 0002795-69.2025.5.12.0025,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1172
@@ -3046,6 +3088,7 @@
 0002829-74.2025.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,790
 0002831-44.2025.5.12.0015,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_31-07-2026.CSV,758
 0002833-85.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_29-07-2026.CSV,688
+0002835-55.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_06-08-2026.CSV,158
 0002843-79.2025.5.12.0008,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,122
 0002846-84.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1203
 0002848-54.2025.5.12.0056,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1028
@@ -3132,4 +3175,3 @@
 0003649-49.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,416
 0003685-91.2025.5.12.0062,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_30-07-2026.CSV,1236
 0140300-43.2005.5.12.0045,PRIMEIRO_MOVIMENTO_NAO_DISTRIBUICAO,Primeiro movimento diferente de distribuicao,processos_01-07-2026.CSV,443
-0001718-21.2026.5.12.0015,PASSAGEM_TRIAGEM_INCOMPLETA,Passagem incompleta pela triagem,processos_14-07-2026.CSV,252

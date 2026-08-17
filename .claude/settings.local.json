@@ -46,7 +46,18 @@
       "Bash(mv debug_screenshots saopje/debug_screenshots)",
       "Bash(python -m py_compile main.py login_pje/login_pje_1g.py saopje/saopje_download_rel_proc_distribuidos.py projeto_equalizacao/config.py)",
       "Bash(python main.py 99)",
-      "Bash(echo \"exit code: $?\")"
+      "Bash(echo \"exit code: $?\")",
+      "Bash(python main.py 31)",
+      "Bash(ls \"C:/desenvolvimento/projetos/\" 2>&1)",
+      "Bash(stat -c \"%i %h %n\" \"C:/desenvolvimento/projetos/automações/resumo_executivo_equalizacao/src/relatorio.py\" \"C:/desenvolvimento/projetos/automacoes_segest/resumo_executivo_equalizacao/src/relatorio.py\" 2>&1 *)",
+      "Bash(python main.py)",
+      "Bash(SKILL_DIR=\"C:/Users/gusta/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/f7adf2df-4882-4868-9ae2-cb05a3b8a73d/604071e3-994a-4b56-969b-5dadec169253/skills/docx\" *)",
+      "Bash(python \"C:/Users/gusta/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/f7adf2df-4882-4868-9ae2-cb05a3b8a73d/604071e3-994a-4b56-969b-5dadec169253/skills/docx/scripts/office/soffice.py\" --headless --convert-to pdf \"Resumo_Executivo_Equalizacao_01-07-2026_a_29-07-2026.docx\")",
+      "Bash(where soffice *)",
+      "Read(//c/Program Files/LibreOffice/program/**)",
+      "Bash(\"/c/Program Files/LibreOffice/program/soffice.exe\" --headless --convert-to pdf \"Resumo_Executivo_Equalizacao_01-07-2026_a_29-07-2026.docx\")",
+      "Bash(pdftoppm -jpeg -r 100 \"Resumo_Executivo_Equalizacao_01-07-2026_a_29-07-2026.pdf\" page)",
+      "Bash(python -c \"import fitz; print\\('ok'\\)\")"
     ]
   }
 }

@@ -30,10 +30,15 @@ OPCOES = {
         "cwd": BASE_DIR / "projeto_equalizacao",
     },
     "30": {
-        "descricao": "Gerar relatório DOCX",
+        "descricao": "Gerar relatório TÉCNICO DOCX",
         "comando": [sys.executable, "main.py", "--relatorio"],
         "cwd": BASE_DIR / "projeto_equalizacao",
     },    
+    "31": {
+        "descricao": "Gerar relatório NEGOCIAL DOCX",
+        "comando": [sys.executable, "main.py"],
+        "cwd": BASE_DIR / "resumo_executivo_equalizacao",
+    },
     "40": {
         "descricao": "Abrir Dashboard do sistema de equalização",
         "comando": ["streamlit", "run", "app.py"],
